@@ -12,7 +12,7 @@ A **Power BI dashboard** comparing two quick-commerce giants — **Zepto** and *
 - **Best-selling Products:**
 
 👉 The full dashboard (PDF, one-page visual) is included in this repo:  
-[**View Dashboard PDF**](Dashboardzeptovsblinkit.pdf)  
+[**View Dashboard PDF**](Dashboard zeptovsblinkit.pdf)  
 
 ## 🛠️ Tools Used  
 - **Power BI Desktop** – data modeling & visualization  
